@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+#Basitsidd {  /*Worship Allah*/
+text-align: center;
+color:white;
+font-family: "Gruppo";
+font-weight: 100;
+font-size: 95px;
+position: relative;
+
+}
+#Basitsidd2 {
+text-align: center;
+color:white;
+font-family: "Gruppo";
+font-weight: 100;
+font-size: 95px;
+position: relative;
+bottom: 120px;
+}
+#Basitsidd3 
+{
+text-align: center;
+color:white;
+font-family: "Gruppo";
+font-weight: 100;
+font-size: 95px;
+position: relative;
+bottom: 230px;
+}
+#plazasign {
+text-align: center;
+color:white;
+font-family: "Gruppo";
+font-weight: 100;
+font-size: 95px;
+position: relative;
+top: 220px;
+}
+
+#option1{
+background-color: azure;
+position: relative;
+width: 100px;
+height: 100px;
+}
+#option2 {
+color: white;
+font-family: "Gruppo";
+font-weight: 100;
+text-align: center;
+position: relative;
+bottom: 43px;
+
+}
+#option3 {
+color: white;
+font-family: "Gruppo";
+font-weight: 100;
+text-align: right;
+position: relative;
+bottom: 51px;
+
+}
+
+
+
+
+
+    
