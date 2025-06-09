@@ -10,60 +10,43 @@ font-size: 95px;
 position: relative;
 
 }
-#Basitsidd2 {
-text-align: center;
-color:white;
-font-family: "Gruppo";
-font-weight: 100;
-font-size: 95px;
-position: relative;
-bottom: 120px;
-}
-#Basitsidd3 
-{
-text-align: center;
-color:white;
-font-family: "Gruppo";
-font-weight: 100;
-font-size: 95px;
-position: relative;
-bottom: 230px;
-}
-#plazasign {
-text-align: center;
-color:white;
-font-family: "Gruppo";
-font-weight: 100;
-font-size: 95px;
-position: relative;
-top: 220px;
-}
-
-#option1{
-background-color: azure;
-position: relative;
-width: 100px;
-height: 100px;
-}
-#option2 {
+#desc {
+font-family: "Oswald";
+font-weight: lighter;
 color: white;
-font-family: "Gruppo";
-font-weight: 100;
 text-align: center;
 position: relative;
-bottom: 43px;
-
+bottom: 60px;
 }
-#option3 {
-color: white;
+#plazamessage {
+    font-family: "Gruppo";
+    font-weight: 100;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+}
+#label1 {
 font-family: "Gruppo";
-font-weight: 100;
+color: white;
+position: relative;
+bottom: 44px;
+text-align: left;
+}
+#label2 {
+font-family: "Gruppo";
+color: white;
+position: relative;
+bottom: 95px;
+text-align: center;
+}
+#label3 {
+font-family: "Gruppo";
+color: white;
+position: relative;
+bottom: 145px;
 text-align: right;
-position: relative;
-bottom: 51px;
-
 }
-
 
 
 
