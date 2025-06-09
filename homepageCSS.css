@@ -8,6 +8,7 @@ font-family: "Gruppo";
 font-weight: 100;
 font-size: 95px;
 position: relative;
+animation: colourlightup 2s infinite;
 
 }
 #desc {
@@ -17,6 +18,9 @@ color: white;
 text-align: center;
 position: relative;
 bottom: 60px;
+}
+#desc:hover {
+accent-color: black;
 }
 #plazamessage {
     font-family: "Gruppo";
@@ -30,22 +34,42 @@ bottom: 60px;
 font-family: "Gruppo";
 color: white;
 position: relative;
-bottom: 44px;
+left: 10px;
 text-align: left;
 }
 #label2 {
 font-family: "Gruppo";
 color: white;
 position: relative;
-bottom: 95px;
+left: 625px;
 text-align: center;
+
 }
 #label3 {
 font-family: "Gruppo";
 color: white;
 position: relative;
-bottom: 145px;
+left: 1225px;
 text-align: right;
+text-decoration-color: black;
+}
+button {
+    background-color: black;
+    color: white;
+}
+@keyframes colourlightup {
+    5%{
+    color: rgb(20, 25, 41);
+    }
+    10% {
+    color: rgb(17, 20, 23);
+    }
+    15% {
+    color: rgb(38, 17, 24);
+    }
+    20% {
+    color: rgb(23, 17, 19);
+    }
 }
 
 
