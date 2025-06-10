@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+#headtext {
+    color: white;
+    text-align: center;
+    font-family: "Gruppo";
+    font-style: bold;
+}
+#myanswer {
+    color: white;
+    text-align: center;
+    font-family: "Gruppo";
+    font-weight: 400;
+    font-style: italic;
+}
+#surprise {
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom: 32px;
+    left: 120px;
+    font-family: "Gruppo";
+    font-weight: 400;
+    font-style: italic;
+}
+#surprise:hover {
+    color: rgb(251, 33, 255);
+}
