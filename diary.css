@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+#inprogress {
+    color: white;
+    font-family: "Gruppo";
+    text-align: center;
+    font-weight: 100;
+}
